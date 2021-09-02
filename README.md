@@ -59,11 +59,6 @@ python eval_voc.py
 
 ![](imgs/person.jpg)![](imgs/person_result.jpg)
 
-## 附
-对于初学者或硬件条件限制问题，提供训练后的权重.pth文件。
-
-【获取方式】 
-关注公众号 【OAOA】，回复【0813】获取百度盘链接。
 
 ## 参考
 原项目地址：https://github.com/FelixFu520/yolov1

@@ -1,4 +1,6 @@
 # yolo v1_pytorch
+This repo is about the realize of yolov1 network.
+
 ## 项目目录
 ```text
 ｜--checkpoints          日志和权重
